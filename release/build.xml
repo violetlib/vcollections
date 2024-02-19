@@ -2,6 +2,8 @@
 
 <project name="VCollections" default="build">
 
+  <!-- See https://violetlib.org/vbuilder/overview.html" -->
+
   <typedef resource="org/violetlib/vbuilder/ant/antlib.xml"/>
 
   <property name="RELEASE" value="2"/>
